@@ -7,7 +7,7 @@ const rootElement = document.getElementById('root');
 // console.log(element);
 
 
-const HeadingComponent = () => {
+const HeadingComponent = ( ) => {
   return (<div>
    <h1>React Component</h1> </div>)
 }
